@@ -8,7 +8,7 @@ if [ $? != 1 ]; then
   break
 fi
 echo repeat | terminal-notifier
-sleep 300
+sleep 600
 done
 
 echo end | terminal-notifier
