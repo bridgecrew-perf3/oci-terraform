@@ -1,3 +1,5 @@
+- 新しいインスタンスのテンプレートを作成してみたら、違いはsource_idとssh_authorized_keysだった。
+
 - ociでk8sをやろうと思ったやつ
 https://blog.potproject.net/2021/06/01/oracle-cloud-kubernetes
 
